@@ -1,3 +1,0 @@
-target/target/
-*.class
-src/main/resources/db.properties
